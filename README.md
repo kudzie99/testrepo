@@ -1,2 +1,2 @@
 # testrepo
-this is a test repository for my data science project
+This is a test repository for my IBM data science project.
